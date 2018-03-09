@@ -30,7 +30,13 @@ Fresh Tomatoes Movie Trailers in also in [public repository](https://github.com/
 
 FreshTomatoes Movie Trailers requires [Python 2](https://www.python.org/download/releases/2.7.2/) to run.
 
-### Usage
+### How to run
+1.) Download the code or clone a repository from GitHub (To clone a repo, type the code below in the terminal)
+```sh
+$ git clone https://github.com/NCJo/movies_trailers
+```
+2.) Navigate to the repository folder
+3.) run the code below in terminal to start movie trailers page
 ```sh
 $ python entertainment_center.py
 ```
